@@ -3,6 +3,8 @@ In this [Houston Data Science][1] meetup we will introduce our members to data s
 
 ## Objectives
 
+##David Lietjau
+
 * Install Python 3 and set up on your computer via the Anaconda distribution
 * Install Git locally and create a Github account
 * Develop Python programs in a text editor, IDE and Jupyter Notebook
